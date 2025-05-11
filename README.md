@@ -1,6 +1,6 @@
 - 👋 Hi Everyone! I’m Dhruv
 - 👀 I’m interested in Learning and exploring new tech
-- 🌱 I’m currently learning Machine Learning along with Web Development
+- 🌱 I’m currently learning Machine Learning also with some Web Development
 - 💞️ I’m looking to gain valuable hands-on experience 
 - 📫 How to reach me -> https://www.linkedin.com/in/dhruv-sharma-929374291/
 
