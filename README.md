@@ -18,5 +18,3 @@ Web Development: HTML, CSS
 Tools: Git, VS Code, Canva
 
 Databases: MySQL
-
-📈 GitHub Stats:
