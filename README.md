@@ -1,10 +1,22 @@
-- 👋 Hi Everyone! I’m Dhruv
-- 👀 I’m interested in Learning and exploring new tech
-- 🌱 I’m currently learning Machine Learning also with some Web Development
-- 💞️ I’m looking to gain valuable hands-on experience 
-- 📫 How to reach me -> https://www.linkedin.com/in/dhruv-sharma-929374291/
+Hi there, I'm Dhruv 👋
+Welcome to my GitHub! I'm a passionate college student focusing on Machine Learning, and I love working on projects that blend creativity and technology. I'm currently diving into the world of Web Development, Machine Learning & Data Structures And Algorithms, and I'm always looking for new challenges and opportunities to improve my skills.
 
-<!---
-dhruvXcode247/dhruvXcode247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me:
+🎓 Currently studying Computer Science & Engineering at G.L. Bajaj Institute Of Technology And Management.
+
+💻 I'm passionate about building Web Applications & Machine Learning Projects.
+
+🔭 Currently focusing on my DSA skills alongside Machine Learning.
+
+📫 How to reach me: https://www.linkedin.com/in/dhruv-sharma-929374291/
+
+🔧 Technologies & Tools:
+Languages: Python, C++, C
+
+Web Development: HTML, CSS
+
+Tools: Git, VS Code, Canva
+
+Databases: MySQL
+
+📈 GitHub Stats:
