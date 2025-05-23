@@ -18,3 +18,4 @@ Web Development: HTML, CSS
 Tools: Git, VS Code, Canva
 
 Databases: MySQL
+![](https://komarev.com/ghpvc/?username=dhruvXcode247&color=blue)
