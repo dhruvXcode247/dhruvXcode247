@@ -21,6 +21,3 @@ Databases: MySQL
 
 
 ![](https://komarev.com/ghpvc/?username=dhruvXcode247&color=blue)
-![Profile views](https://komarev.com/ghpvc/?username=dhruvXcode247&label=PROFILE+VIEWS&color=0e75b6&style=flat)
-
-
