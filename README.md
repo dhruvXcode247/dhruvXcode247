@@ -10,12 +10,11 @@ Welcome to my GitHub! I'm a passionate college student focusing on Machine Learn
 
 📫 How to reach me: https://www.linkedin.com/in/dhruv-sharma-929374291/
 
-🔧 Technologies & Tools:
+🔧 Technologies & Tools: Git, VS Code, Canva
+
 Languages: Python, C++, C
 
-Web Development: HTML, CSS
-
-Tools: Git, VS Code, Canva
+Web Development: HTML, CSS, JS (basics)
 
 Databases: MySQL
 
